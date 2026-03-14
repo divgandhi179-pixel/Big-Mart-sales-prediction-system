@@ -1,6 +1,7 @@
 # Big-Mart-sales-prediction-system
 
 🛒 Big Mart Sales Prediction System
+
 📌 Project Overview
 
 The Big Mart Sales Prediction System is a Machine Learning project that predicts the sales of products in different Big Mart outlets based on various product and store attributes. The objective of this project is to build a predictive model that helps businesses estimate product sales using historical data and improve inventory planning and decision-making.
